@@ -3,7 +3,7 @@ Nouveau dépôt du projet Web du premier semestre
 
 Victor : 
   - page index 
-  - CSS mobile
+  - CSS générale (style.css)
 
 Tristan : 
   - 3 page trilogie
